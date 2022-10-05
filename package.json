@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "belajar js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "create": "mkdir src",
+    "dev": "nodemode index.js"
+  },
+  "author": "aci",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
